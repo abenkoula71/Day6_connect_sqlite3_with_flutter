@@ -36,5 +36,5 @@ await database.insert('users', {'name': 'John Doe'});
 # 5-Close the database by calling the close() method.
 
 ```
-await database.insert('users', {'name': 'John Doe'});
+await database.close();
 ```
