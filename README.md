@@ -8,3 +8,10 @@ To connect SQLite3 with Flutter, you can use the sqflite plugin. Here are the st
 dependencies:
   sqflite: ^2.0.0+3
 ```
+
+# 2-Add the sqflite dependency in your pubspec.yaml file.
+
+```
+dependencies:
+  sqflite: ^2.0.0+3
+```
