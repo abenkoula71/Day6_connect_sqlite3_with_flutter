@@ -17,7 +17,6 @@ import 'package:sqflite/sqflite.dart';
 
 # 3-Open a database by using the openDatabase() method. You can create a new database by specifying the database name, version, and a callback function that creates the necessary tables.
 
-
 ```
 final database = await openDatabase(
     'my_database.db',
