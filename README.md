@@ -14,3 +14,9 @@ dependencies:
 ```
 import 'package:sqflite/sqflite.dart';
 ```
+
+# 3-Import the sqflite package in your dart file.
+
+```
+import 'package:sqflite/sqflite.dart';
+```
