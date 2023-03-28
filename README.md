@@ -9,7 +9,7 @@ dependencies:
   sqflite: ^2.0.0+3
 ```
 
-# 2-Add the sqflite dependency in your pubspec.yaml file.
+# 2-Import the sqflite package in your dart file.
 
 ```
 dependencies:
