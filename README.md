@@ -38,3 +38,5 @@ await database.insert('users', {'name': 'John Doe'});
 ```
 await database.close();
 ```
+
+That's it! You can now use SQLite3 with Flutter by using the sqflite plugin.
