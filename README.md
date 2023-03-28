@@ -26,3 +26,10 @@ final database = await openDatabase(
     },
 );
 ```
+
+# 4-Add the sqflite dependency in your pubspec.yaml file.
+
+```
+dependencies:
+  sqflite: ^2.0.0+3
+```
