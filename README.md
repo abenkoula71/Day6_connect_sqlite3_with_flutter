@@ -32,3 +32,9 @@ final database = await openDatabase(
 ```
 await database.insert('users', {'name': 'John Doe'});
 ```
+
+# 5-Perform CRUD operations using the database object. For example, to insert data into the users table, you can use the insert() method.
+
+```
+await database.insert('users', {'name': 'John Doe'});
+```
