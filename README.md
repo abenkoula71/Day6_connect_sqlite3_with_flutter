@@ -7,7 +7,6 @@
 
 
 
-
 To connect SQLite3 with Flutter, you can use the sqflite plugin. Here are the steps to connect SQLite3 with Flutter:
 
 
